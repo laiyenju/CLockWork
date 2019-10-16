@@ -4,6 +4,8 @@ description: "\bCLockWork = 發條島記事"
 
 # HOME
 
+{% page-ref page="do/how\_to\_markdown.md" %}
+
 {% page-ref page="do/rails-easy-comment.md" %}
 
 {% page-ref page="do/open-git.md" %}
