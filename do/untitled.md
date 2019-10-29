@@ -4,7 +4,7 @@ description: 為了將 Python 升級為 Python3，因此使用 Homebrew 安裝�
 
 # OMG！我的 Homebrew 🍺 壞掉了
 
-
+![](../.gitbook/assets/homebrew.png.001.jpeg)
 
 兵荒馬亂的起始點，就在終端機輸入 `brew install python3` 後，出現了錯誤訊息：
 
