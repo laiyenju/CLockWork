@@ -4,6 +4,8 @@ description: 本文紀錄如何建立一個完整的 Rails 專案、如何使用
 
 # 製作 Rails 網頁應用：簡易留言系統
 
+![](../.gitbook/assets/rais.001.jpeg)
+
 為了讓正在學習 Ruby on Rails 的自己有點成就感，所以參考[五倍紅寶石這個 Ruby on Rails 社群的教學文](https://railsbook.tw/)，先做個能與使用者互動的簡易留言系統。建議也想試做一次 Rails 網頁應用的人，可以直接閱讀教學文內的兩個章節：[環境設定](https://railsbook.tw/chapters/02-environment-setup.html)、[第一個應用程式（使用 Scaffold）](https://railsbook.tw/chapters/04-your-first-rails-application.html)。
 
 ## 建立 Rails 專案 <a id="95aa"></a>

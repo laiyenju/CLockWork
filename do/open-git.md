@@ -4,6 +4,10 @@ description: MacOS 限定，Git command line 的基本指令
 
 # 正確開啟 Git 的方式
 
+
+
+![](../.gitbook/assets/git.001.jpeg)
+
 **本篇會記錄以下 Git 功能，方便日後查找**
 
 1. 確認 Git 的版本
