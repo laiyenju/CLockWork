@@ -71,8 +71,6 @@ description: 本文紀錄如何建立一個完整的 Rails 專案、如何使用
 
    > 請特別注意 Rails 專案內多了一個檔案「20190715124353\_create\_users.rb」，它會是下個步驟要的遷移檔。
 
-   {% code-tabs %}
-   {% code-tabs-item title="20190715124353\_create\_users.rb" %}
    ```text
    //開啟 20190715124353_create_users.rb 檔案，會發現內容就是個準備要產生儲存使用者資料的表格。
    class CreateUsers < ActiveRecord::Migration[5.2]
@@ -84,8 +82,6 @@ description: 本文紀錄如何建立一個完整的 Rails 專案、如何使用
      end
    end
    ```
-   {% endcode-tabs-item %}
-   {% endcode-tabs %}
 
 3. 描述遷移檔（migration file）建立表格  
   

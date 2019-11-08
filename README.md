@@ -4,7 +4,7 @@ description: "\bCLockWork = 發條工作站"
 
 # HOME
 
-{% page-ref page="do/untitled.md" %}
+{% page-ref page="do/omg-homebrew.md" %}
 
 {% page-ref page="do/how\_to\_markdown.md" %}
 
